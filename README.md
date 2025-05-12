@@ -1,4 +1,4 @@
-# 👏 ClapCity – Onde o Sopro Vira Aplauso
+# 👏 ClapCity
 
 Bem-vindo ao **ClapCity**, o blog criativo, jovem e vibrante feito por estudantes da UFT!  
 Aqui, cada post é como uma trombeta sendo tocada no centro da cidade — alto, expressivo e impossível de ignorar.
